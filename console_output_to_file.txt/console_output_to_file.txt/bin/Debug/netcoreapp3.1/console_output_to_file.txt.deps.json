@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "console_output_to_file.txt/1.0.0": {
+        "runtime": {
+          "console_output_to_file.txt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "console_output_to_file.txt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
